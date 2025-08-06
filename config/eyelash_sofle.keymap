@@ -56,8 +56,8 @@
 
         RAISE {
             bindings = <
-&trans      &trans           &trans           &trans            &trans           &trans             &mmv MOVE_UP     &kp F6           &kp F7           &kp F8           &kp F9           &kp F10           &trans
-&kp GRAVE   &kp GRAVE        &mkp LCLK        &mkp MCLK         &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP           &kp HOME         &kp MINUS         &kp EQUAL
+&trans      &trans           &trans           &trans            &trans           &trans             &mmv MOVE_UP     &trans           &trans           &trans           &trans           &trans            &trans
+&kp GRAVE   &kp F1           &kp F2           &kp F3            &kp F4           &kp F5             &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP           &kp HOME         &kp MINUS         &kp EQUAL
 &trans      &trans           &kp PRINTSCREEN  &kp C_PLAY_PAUSE  &kp C_NEXT       &kp C_PREVIOUS     &mmv MOVE_LEFT   &kp PG_DN        &kp LEFT         &kp DOWN         &kp RIGHT        &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &rgb_ug RGB_TOG  &rgb_ug RGB_EFR  &rgb_ug RGB_EFF   &rgb_ug RGB_SPD  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &rgb_ug RGB_HUI  &rgb_ug RGB_HUD  &rgb_ug RGB_SAI   &rgb_ug RGB_SAD
 &kp C_MUTE  &trans           &trans           &trans            &trans           &trans             &mkp LCLK        &trans           &trans           &trans           &trans           &trans
