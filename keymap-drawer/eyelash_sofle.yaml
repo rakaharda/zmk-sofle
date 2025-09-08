@@ -64,7 +64,7 @@ layers:
   - LOWER
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:backspace-reverse-outline$$
-  - $$mdi:backspace-reverse-outline$$
+  - Alt+$$mdi:apple-keyboard-shift$$
   raise:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
